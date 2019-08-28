@@ -24,7 +24,7 @@
   <project remote="freescale" revision="1d6d5961dbf82624b28bb318b4950a64abc31d12" name="meta-freescale-3rdparty" path="sources/meta-freescale-3rdparty"/>
   <project remote="freescale" revision="0ec6d7e206705702b5b534611754de0787f92b72" name="meta-freescale-distro" path="sources/meta-freescale-distro"/>
 
-  <project remote="kentkart" revision="a7c50bc6c46180a329c9baebf974a802c3d4c185" upstream="rocko" name="meta-kentkart" path="sources/meta-kentkart"/>
+ 
   
   <!-- Use a newer version of chromium than is currently available on rocko -->
   <project remote="OSSystems" revision="d6f9aed41c73b75a97d71bff060b03a66ee087b1" name="meta-browser" path="sources/meta-browser" />
