@@ -23,7 +23,7 @@ Download the BSP source:
 $: PATH=${PATH}:~/bin
 $: mkdir ~/kentkart-yocto
 $ cd ~/kentkart-yocto
-$ repo init -u https://github.com/codercument/kentkart-bsp-platform.git-b rocko
+$ repo init -u https://github.com/codercument/kentkart-bsp-platform.git -b rocko
 $ repo sync -j4
 ```
 At the end of the commands you have every metadata you need to start work with.
